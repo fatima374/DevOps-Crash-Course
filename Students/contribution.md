@@ -384,4 +384,25 @@ https://medium.com/@hurrim38/introduction-to-podman-an-alternative-to-docker-4fb
 5. https://podman.io/
 6. https://docs.sigstore.dev/cosign/overview/
 
+# Fatima Ahmed:
+Twitter: @Fatima374ahmed
+
+# What I learned
+Following are the topics we discussed in DevOps course:
+1.Docker
+2.Kubernetes
+3.Podman
+4.Cosign
+5.SBOM
+6.Supply chain security within k8s cluster using Open policy Agent
+
+# My Blogs:
+## 1.	SBOM
+In this blog, I discussed what is SBOM, why it is needed, what is SBOM used for,SBOM lifecycle,what should be included in SBOM,tools for generating SBOM
+https://medium.com/@i180614/sbom-software-bill-of-materials-84d8255d26c6
+
+## 2. Supply chain security using Open Policy Agent
+In this blog,I discussed about OPA gatekeeper,policy and constraints
+https://medium.com/@i180614/supply-chain-security-in-kubernetes-using-open-policy-agent-e368ba0a378d
+
 
